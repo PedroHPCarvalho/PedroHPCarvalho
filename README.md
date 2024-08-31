@@ -1,4 +1,4 @@
-## Seja Bem-Vindo ao meu Git, sou Pedro Carvalho ✌️
+## Seja Bem-Vindo ao meu GitHub, sou Pedro Carvalho ✌️
 
 
 ### Fale Comigo

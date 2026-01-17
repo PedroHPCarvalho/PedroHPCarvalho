@@ -10,7 +10,6 @@
 
 ## Estatísticas de Commits
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHPCarvalho&show_icons=true&theme=date_night)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PedroHPCarvalho&theme=date-night&hide_border=true)](https://git.io/streak-stats)
 
 
 # Tecnologias Utilizadas
@@ -22,9 +21,6 @@
 ![skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![skill](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHPCarvalho&layout=donut&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
-<div>
 
 ## Destaques
 

@@ -27,3 +27,16 @@
 <div>
 
 ## Destaques
+
+## 🚀 Projeto em Destaque
+
+### 💰 Zeni Finance — Fullstack Personal Finance Platform
+Plataforma fullstack para gestão financeira pessoal com arquitetura desacoplada, autenticação JWT, dashboards em tempo real e integração com IA. O sistema utiliza React como SPA, Django como BFF e Spring Boot como Core API, garantindo separação de responsabilidades, baixo acoplamento e alta escalabilidade.
+
+🔹 Frontend: React + Vite  
+🔹 BFF: Django REST  
+🔹 Core: Spring Boot 3  
+🔹 Banco: PostgreSQL  
+🔹 Infra: Docker + Azure  
+
+👉 [Ver repositório](https://github.com/PedroHPCarvalho/Zeni_Finance)
